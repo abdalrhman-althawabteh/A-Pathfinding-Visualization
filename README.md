@@ -13,7 +13,7 @@ This project is an implementation of the A* pathfinding algorithm in Python, wit
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/astar-pathfinding-visualization.git
+    git clone https://github.com/abdalrhman-althawabteh/A-Pathfinding-Visualization.git
     ```
 2. Navigate to the project directory:
     ```bash
